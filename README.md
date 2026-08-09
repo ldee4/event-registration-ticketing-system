@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Registration & Ticketing System
 
 A serverless REST API on AWS that replaces Microsoft Forms + Excel for event
@@ -36,3 +37,7 @@ event-registration-system/
 - [ ] Set an AWS Budget alert (recommended before provisioning anything else)
 
 See the step-by-step console instructions provided alongside this scaffold.
+=======
+# event-registration-ticketing-system
+This project is to create an event registration ticketing system using lamda, dynamoDb, cloudfomation. A classic serverless CRUD API with the "AWS free tier trifecta" (Lambda + API Gateway + DynamoDB) plus observability, notifications, cost control, and CI/CD.
+>>>>>>> f741b5d9988a0c4793a824290eb6e8d48d749728
